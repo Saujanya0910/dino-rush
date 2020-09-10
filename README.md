@@ -1,2 +1,3 @@
 # dino-rush
-Google Chrome dino game made implemented using PyGame 
+
+Google Chrome dino game implemented using PyGame library.
